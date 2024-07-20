@@ -183,6 +183,9 @@
 	}, {
 		"selector": ".vsubmit",
 		"text": ["输入验证码就可以提交评论啦～"]
+	}, {
+		"selector": ".dSearchIn",
+		"text": ["你想要搜索什么大宝贝呢～"]
 	}],
 	"seasons": [{
 		"date": "01/01",
